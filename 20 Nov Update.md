@@ -1,4 +1,7 @@
-# Biweekly Update Nov 20  
+# Biweekly Update Nov 20 
+
+## Abstract
+1. Report structure updated.
 
 ## Let's talk about IEEE 802.11ad
 802.11ad is a wireless networking standard that enables very high throughput and data rates up to multiple gigabits per second by using the 60 GHz frequency band. It is also known as WiGig, and it is part of the IEEE 802.11 family of standards. However, it has some limitations, such as short range, difficulty in passing through obstacles, and interference from other devices operating in the same band.
